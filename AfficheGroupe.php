@@ -21,3 +21,4 @@ function AfficheGroupe() {
 	return $html;
 }
 ?>
+test
